@@ -38,7 +38,7 @@
     ```
 
 ## Code Example
-    ```
+    ```go
 // Example usage
 func main() {
 	// Example usage of RateLimiter
@@ -55,4 +55,4 @@ func main() {
 		time.Sleep(200 * time.Millisecond) // Simulate some delay between requests
 	}
 }
-    ```
+```
