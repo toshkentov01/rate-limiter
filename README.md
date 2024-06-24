@@ -38,7 +38,7 @@
     ```
 
 ## Code Example
-    ```go
+```golang
 // Example usage
 func main() {
 	// Example usage of RateLimiter
